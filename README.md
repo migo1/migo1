@@ -1,53 +1,60 @@
-![Header](./githead.png)
-
-<div align="center">
-<!-- <img align="center"  src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/> -->
-</div>
-
-<div align="center">
-<br> 🏫 I'm Robert Ng'uono Migot, I am a Full Stack Software Engineer 
-<br> 🔭 I’m currently working on a frontend interactivity and animations
-<br> 💬 Ask me about anything, I am happy to help
-<br> 🧑‍💻 Tech I work on :
-</div>
-
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"  alt="html" width="75" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="55" height="55"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+<hr>
+<h1 align="center">Hi there 👋 am Robert Migot</h1>
+<h3 align="center">Software Engineer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/robert-m-3b3b1116a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.instagram.com/robertmigot/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://twitter.com/ert49554392" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href = "mailto: ertmigot@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="10" width="10" /></a>
+</p>
+<p align="center">
+  <em>
+   I'm a backend engineer with 4+ years experice currently learning more on frontend development and on a journey to a 
+    <b>Full-Stack Software Engineer</b> 
+  </em> 
+  <br>
+</p> 
 
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migo1&theme=dark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=migo1&theme=merko"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migo1&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
-</div>
+## 🔧 Technologies & tools
+### Markup languages
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+### Programming languages
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
--->
+<img src="https://th.bing.com/th/id/R.3c7053268b216e0f3cd081fdcff3c1e9?rik=%2fCD4EjWyxYCGlw&pid=ImgRaw&r=0" alt="JAVASCRIPT" style="display: inline; width: 50px;height: 50px;"/><img src="https://th.bing.com/th/id/R.d81c04d746224d25d1ae75b62e7561f3?rik=U1LfuH4fG4gBLw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fRuby_logo.png&ehk=pdFSeKP%2fGRRuGPLxzDEsary7DOpTReXDqILn%2fjd40Tk%3d&risl=1&pid=ImgRaw&r=0" style="display: inline;width: 40px;height: 40px; margin-left:15px" alt="RUBY" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" style="display: inline;width: 40px;height: 40px; margin-left:20px" alt="PHP"/>
 
+<!-- ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react) -->
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+### Frameworks
+<img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" style="width: 40px;height: 40px;" alt="REACT" /> <img src="https://th.bing.com/th/id/R.7a7d284bbbce605899d6d6d4f2cd6663?rik=E5q2PYn7iMV8Vw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fRuby_on_Rails_logo.png&ehk=6bTeBymsrjCekevA5rzdOZSc1q1N5QHT0rlCSeK2HDI%3d&risl=&pid=ImgRaw&r=0" style="width:80px;height: 50px; margin-left:10px" alt="RUBY ON RAILS" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" style="width:80px;height: 50px; margin-left:10px" />
 
-<div align = 'center'>
-      <h3>Connect with me:</h3>
-      <p align="center">
-      <a href = "https://www.linkedin.com/in/jonathan-angeles-sanchez-592896161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-      <a href = "https://twitter.com/DeVouringTrader"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-      <!--
-            <a href = "https://www.instagram.com/jon_angeless/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-      -->
-      </p>
-</div>
+### Tools
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+### Database management systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C8EBB.svg?logo=postgresql&logoColor=white)
+![mysql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+### Operating systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-![snake gif](https://github.com/migo1/migo1/blob/output/github-contribution-grid-snake.gif)
+### Continuos education
+![Microvers](https://img.shields.io/badge/Microverse-blueviolet)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
 
-![Snake animation](https://github.com/migo1/migo1/blob/output/github-contribution-grid-snake.svg)
+## Git hub stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=migo1&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats)
+
+![Migot's GitHub stats](https://github-readme-stats.vercel.app/api?username=migo1&count_private=true&theme=dark&show_icons=true&bg_color=F6F8FA0F&title_color=00DB49&text_color=8A8FA0&icon_color=FFBC00&border_color=AFB8C175)
+
+## What I'm doing now
+- learning, practicing and enhancing my fullstack skills
